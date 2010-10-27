@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<stax-web-app xmlns="http://www.stax.net/xml/webapp/1">     
+  <appid>demo/stax-bee-test</appid>
+</stax-web-app>
