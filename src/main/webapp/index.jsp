@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello CloudBees!</h2>
+<h2>Hello CloudBees Demo!</h2>
 </body>
 </html>
