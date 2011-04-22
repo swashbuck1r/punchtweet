@@ -166,7 +166,7 @@
       <p>Punchcards are the original tweets (just limited to 80 chars instead of 140)</p>
     </div>
     <div id="punchbox">
-      <span id="charlimit"></span><h1>Punch something TAB...</h1>
+      <span id="charlimit"></span><h1>Punch something...</h1>
       <textarea id="input"></textarea>
       <a id="retweet" class="btn" href="http://punchtweet.spike13.cloudbees.net"><span>PunchTweet</span></a>
       <a id="genurl" class="btn" href="http://punchtweet.spike13.cloudbees.net"><span>Link</span></a>
