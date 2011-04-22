@@ -32,9 +32,6 @@
      <releases>
        <enabled>fale</enabled>
      </releases>
-     <snapshots>
-       <enabled>false</enabled>
-     </snapshots>
    </pluginRepository>
  </pluginRepositories>
 
