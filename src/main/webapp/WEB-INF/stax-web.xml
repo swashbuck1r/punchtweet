@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <stax-web-app xmlns="http://www.stax.net/xml/webapp/1">     
-    <appid>punchtweet</appid>
+    <appid>spike/punchtweet</appid>
     <context-param>
         <param-name>application.environment</param-name>
         <param-value>prod</param-value>

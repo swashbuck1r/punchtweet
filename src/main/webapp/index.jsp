@@ -60,7 +60,7 @@
         var encoded = "";
         for(var i=0; i<text.length; i++)
           encoded += String.fromCharCode(text.charCodeAt(i) + 1);
-        return "http://punchtweet.staxapps.com/?e=" + encoded;
+        return "http://punchtweet.spike13.cloudbees.net/?e=" + encoded;
       }
     });
     
@@ -161,22 +161,22 @@
   <body>
     <div id="titleBar">
       <div class="diggButton">
-        <a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url=http%3A//punchtweet.staxapps.com/"></a>
+        <a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url=http%3A//punchtweet.spike13.cloudbees.net/"></a>
       </div>
       <p>Punchcards are the original tweets (just limited to 80 chars instead of 140)</p>
     </div>
     <div id="punchbox">
       <span id="charlimit"></span><h1>Punch something TAB...</h1>
       <textarea id="input"></textarea>
-      <a id="retweet" class="btn" href="http://punchtweet.staxapps.com"><span>PunchTweet</span></a>
-      <a id="genurl" class="btn" href="http://punchtweet.staxapps.com"><span>Link</span></a>
+      <a id="retweet" class="btn" href="http://punchtweet.spike13.cloudbees.net"><span>PunchTweet</span></a>
+      <a id="genurl" class="btn" href="http://punchtweet.spike13.cloudbees.net"><span>Link</span></a>
     </div>
     
     <div id="punchcards">
       
     </div>
     
-    <div id="stax"><div id="icon"></div>Got an idea for an app of your own? Punchcards run at cloud scale on <a href="http://www.stax.net">Stax.net</a> &nbsp;&nbsp;&nbsp;...it's great for all Java apps on EC2 (not just punching cards)</div>
+    <div id="stax"><div id="icon"></div>Got an idea for an app of your own? Punchcards run at cloud scale on <a href="http://www.cloudbees.com">CloudBees</a> &nbsp;&nbsp;&nbsp;...it's great for all Java apps on EC2 (not just punching cards)</div>
   
   <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
