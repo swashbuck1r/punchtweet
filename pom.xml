@@ -25,12 +25,12 @@
    </plugins>
   </build>
 
-<pluginRepositories>
-  <pluginRepository>
+  <pluginRepositories>
+   <pluginRepository>
      <id>bees-plugins-snapshots</id>
-     <url>http://repository-cloudbees.forge.cloudbees.com/public-snapshot/</url>
+     <url>http://repository-cloudbees.forge.cloudbees.com/public-snapshot</url>
      <releases>
-       <enabled>fale</enabled>
+       <enabled>true</enabled>
      </releases>
    </pluginRepository>
  </pluginRepositories>
