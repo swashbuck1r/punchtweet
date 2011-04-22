@@ -1,4 +1,4 @@
-<html>
+ <html>
   <head>
     <script src="scripts/prototype.js" type="text/javascript" ></script>
     <script src="scripts/punchcard.js" type="text/javascript" ></script>
