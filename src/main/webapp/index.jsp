@@ -1,5 +1,6 @@
     <html>
   <head>
+    <title>PunchTweet - tweeting it old school!</title>
     <script src="scripts/prototype.js" type="text/javascript" ></script>
     <script src="scripts/punchcard.js" type="text/javascript" ></script>
     <script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&login=swashbuck1r&apiKey=R_515bb2e8cfca31c7e8e0984910b59faf"></script>
@@ -156,7 +157,6 @@
       #titleBar { margin: 0px 0px 10px 20px; position: relative; width: 1084px; } 
       #titleBar .diggButton { position: absolute; right: 0px;}
     </style>
-    <title>PunchTweet - tweeting it old school</title>
   </head>
   <body>
     <div id="titleBar">
