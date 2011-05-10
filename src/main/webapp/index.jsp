@@ -163,7 +163,7 @@
       <div class="diggButton">
         <a class="DiggThisButton DiggMedium" href="http://digg.com/submit?url=http%3A//punchtweet.spike13.cloudbees.net/"></a>
       </div>
-      <p>Punchcards are the original tweets (just limited to 80 chars instead of 140)</p>
+      <p>Punchcards are the original TWEETS (just limited to 80 chars instead of 140)</p>
     </div>
     <div id="punchbox">
       <span id="charlimit"></span><h1>Punch something...</h1>
